@@ -8,4 +8,8 @@ Je doit déposer sur le repository les fichier suivant:
 - 2 autres fichiers de mon choix
 - Il faut réaliser au moins 4 commits
 
+Je viens de réaliser l'ajout de deux fichiers dans le suivi GIT.
+J'ai réalisé 4 Commits
+
+Il me reste à tout pousser sur GitHub
 
